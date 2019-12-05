@@ -68,8 +68,8 @@ public class Department implements Serializable {
         return hash;
     }
     /**
-     * Compares twon instances of department.
-     * @param object the other department instance to compare to.
+     * Compares two instances of department.
+     * @param object another department instance to compare to.
      * @return true if instances are equal.
      */
     @Override
