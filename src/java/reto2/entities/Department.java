@@ -14,6 +14,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  * Entity class representing departments for a user´s management application.
+ * Comment added for testing git.
  * @author jmarturi
  */
 @Entity
